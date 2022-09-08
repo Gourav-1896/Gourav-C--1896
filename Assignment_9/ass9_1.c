@@ -1,4 +1,5 @@
-
+// Write a program which takes the month number as an input and display
+// number of days in that month.
 
 #include<stdio.h>
 int main()
